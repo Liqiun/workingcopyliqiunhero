@@ -1,0 +1,140 @@
+{
+  "entries" : [
+    {
+      "rule" : "AXSSPunctuationEntryRuleReplace",
+      "replacement" : "！",
+      "punctuation" : "!",
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "version" : 1
+    },
+    {
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "rule" : "AXSSPunctuationEntryRuleIgnore",
+      "version" : 1
+    },
+    {
+      "rule" : "AXSSPunctuationEntryRuleReplace",
+      "replacement" : "?",
+      "punctuation" : "？",
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "version" : 1
+    },
+    {
+      "rule" : "AXSSPunctuationEntryRuleReplace",
+      "replacement" : "\"\"",
+      "punctuation" : "“”",
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "version" : 1
+    },
+    {
+      "rule" : "AXSSPunctuationEntryRuleReplace",
+      "replacement" : ")",
+      "punctuation" : "）",
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "version" : 1
+    },
+    {
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "rule" : "AXSSPunctuationEntryRuleIgnore",
+      "version" : 1
+    },
+    {
+      "rule" : "AXSSPunctuationEntryRuleReplace",
+      "replacement" : "！",
+      "punctuation" : "!",
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "version" : 1
+    },
+    {
+      "rule" : "AXSSPunctuationEntryRuleReplace",
+      "replacement" : "\"\"",
+      "punctuation" : "“”",
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "version" : 1
+    },
+    {
+      "rule" : "AXSSPunctuationEntryRuleReplace",
+      "replacement" : "?",
+      "punctuation" : "？",
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "version" : 1
+    },
+    {
+      "rule" : "AXSSPunctuationEntryRuleReplace",
+      "replacement" : ")",
+      "punctuation" : "）",
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "version" : 1
+    },
+    {
+      "rule" : "AXSSPunctuationEntryRuleReplace",
+      "replacement" : "！",
+      "punctuation" : "!",
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "version" : 1
+    },
+    {
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "rule" : "AXSSPunctuationEntryRuleIgnore",
+      "version" : 1
+    },
+    {
+      "rule" : "AXSSPunctuationEntryRuleReplace",
+      "replacement" : "?",
+      "punctuation" : "？",
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "version" : 1
+    },
+    {
+      "rule" : "AXSSPunctuationEntryRuleReplace",
+      "replacement" : "\"\"",
+      "punctuation" : "“”",
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "version" : 1
+    },
+    {
+      "rule" : "AXSSPunctuationEntryRuleReplace",
+      "replacement" : ")",
+      "punctuation" : "）",
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "version" : 1
+    },
+    {
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "rule" : "AXSSPunctuationEntryRuleIgnore",
+      "version" : 1
+    },
+    {
+      "rule" : "AXSSPunctuationEntryRuleReplace",
+      "replacement" : "！",
+      "punctuation" : "!",
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "version" : 1
+    },
+    {
+      "rule" : "AXSSPunctuationEntryRuleReplace",
+      "replacement" : "\"\"",
+      "punctuation" : "“”",
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "version" : 1
+    },
+    {
+      "rule" : "AXSSPunctuationEntryRuleReplace",
+      "replacement" : "?",
+      "punctuation" : "？",
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "version" : 1
+    },
+    {
+      "rule" : "AXSSPunctuationEntryRuleReplace",
+      "replacement" : ")",
+      "punctuation" : "）",
+      "groupUUID" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+      "version" : 1
+    }
+  ],
+  "basePunctuationUUID" : "00000000-0000-0000-0000-000000000002",
+  "uuid" : "9341772E-1BDC-4884-9911-1128C7CD4BFC",
+  "name" : "中文使用英文符号",
+  "version" : 1
+}
